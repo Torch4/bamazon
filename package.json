@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Online Store in mysql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torch4/bamazon.git"
+  },
+  "keywords": [],
+  "author": "Adrian C Fahrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Torch4/bamazon/issues"
+  },
+  "homepage": "https://github.com/Torch4/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {}
+}
